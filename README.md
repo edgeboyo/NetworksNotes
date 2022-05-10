@@ -23,12 +23,14 @@ Keep in mind this was Kirk talking about these section from his PoV, with a litt
   * Pay attention to specific *temporal units* (per day, per hour) when doing math questions. They change even within a question sometimes to throw you off
   * Try and design systems for continuous use rather than one time upload. As kirk said *"Having a design that requires you to drive past a cafe with WiFi isn't good design*
   * Read up on *specific* already existing solutions (might show up and request specific protocols to be attached to it like: *Present a good 6LowPAN system* bascially only has Kirk's network to monitor glacial movement as a valid answer). He did say it's not likely he'll ask a question like this again (it had terrible grades that year), but better be prepared anyway.
+  
 * Graeme's (?) Section (B):
   * I know Ollie Bills used to write this one but I think it's [Graeme Bragg](https://www.ecs.soton.ac.uk/people/gmb1m17) now
   * They tended to be more chill, less quantitative, just answering questions on issued with implementation or developing abstract systems with no specific maths required.
   * Might be a little different this year given the switch
   * Read up extra things on security and privacy of protocols and data (stuff that we might not have talked about during lectures, but nothing too complex)
   * Read some stuff on IPv4 vs IPv6 and IPv4 exhaustion, specifically (the guest speaker I mentioned worked on this as well)
+  
 * Shiyan's Section (C):
   * This one might a remember-a-thon
   * Shiyan's section is by far the most difficult
