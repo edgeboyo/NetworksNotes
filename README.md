@@ -1,8 +1,12 @@
 # Computer Networks Notes
 
+### Note
+
+Keep in mind this was Kirk talking about these section from his PoV, with a little bit of my bias sprinkled in. The other sections might play out a little differently than he mentioned, but I'd still take some notes from it and read up [previous year's papers](https://pastexampapers.soton.ac.uk/) as well.
+
 ## General Info
 * Don't get Kirk started on Adobe Licensing schemes (they make him very mad)
-* No need to answer all questions. Kirk said this year is one question to answer per section (each section written by one module lead) but he wasn't 100 (look at front page)
+* No need to answer all questions. Kirk said this year is you pick one question from two to answer per section (each section written by one module lead) but he wasn't 100% (look at front page when you start the exam)
 * Very open ended questions for most of the sections
 * Reminder that there was a speaker [Tim Chown](https://www.jisc.ac.uk/staff/tim-chown) on the 28th of April and they alluded to that being examinable. Might be worth looking up his previous/current works.
 * Give yourself enough time to answer all the questions. This is mostly about *correct* volume so it might be worth it to answer more on a specific question you know more on than try to trim and perfect an answer for 30 minutes. 
